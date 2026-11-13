@@ -4,7 +4,7 @@ An interactive product concept that improves last-mile delivery in gated residen
 
 > **Disclaimer:** This is an independent concept prototype for product thinking and portfolio purposes. It is not an official Swiggy product and does not use real Swiggy data, GPS, payments or backend services.
 
-**Live demo:** https://your-project.vercel.app *(replace with your Vercel link)*
+**Live demo:** https://swiggysmarthandoff.vercel.app/
 
 ## The problem
 
